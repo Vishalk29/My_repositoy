@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vishalk29/My_repositoy/static/css/main.74ae566d.chunk.css",
+    "main.js": "/Vishalk29/My_repositoy/static/js/main.47f6c6c9.chunk.js",
+    "main.js.map": "/Vishalk29/My_repositoy/static/js/main.47f6c6c9.chunk.js.map",
+    "runtime-main.js": "/Vishalk29/My_repositoy/static/js/runtime-main.3ad47d5b.js",
+    "runtime-main.js.map": "/Vishalk29/My_repositoy/static/js/runtime-main.3ad47d5b.js.map",
+    "static/js/2.e6f8e2ac.chunk.js": "/Vishalk29/My_repositoy/static/js/2.e6f8e2ac.chunk.js",
+    "static/js/2.e6f8e2ac.chunk.js.map": "/Vishalk29/My_repositoy/static/js/2.e6f8e2ac.chunk.js.map",
+    "static/js/3.af5a331d.chunk.js": "/Vishalk29/My_repositoy/static/js/3.af5a331d.chunk.js",
+    "static/js/3.af5a331d.chunk.js.map": "/Vishalk29/My_repositoy/static/js/3.af5a331d.chunk.js.map",
+    "index.html": "/Vishalk29/My_repositoy/index.html",
+    "static/css/main.74ae566d.chunk.css.map": "/Vishalk29/My_repositoy/static/css/main.74ae566d.chunk.css.map",
+    "static/js/2.e6f8e2ac.chunk.js.LICENSE.txt": "/Vishalk29/My_repositoy/static/js/2.e6f8e2ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad47d5b.js",
+    "static/js/2.e6f8e2ac.chunk.js",
+    "static/css/main.74ae566d.chunk.css",
+    "static/js/main.47f6c6c9.chunk.js"
+  ]
+}
